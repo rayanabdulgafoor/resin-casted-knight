@@ -51,6 +51,8 @@ The fabrication workflow consisted of:
 4. Silicone mold fabrication
 5. Final resin casting and finishing process
 
+
+
 ---
 
 ## CAD & CAM Development
@@ -60,7 +62,21 @@ The fabrication workflow consisted of:
 * Optimized geometry for mold release and manufacturability
 * Prepared fabrication-ready machining workflows
 
+
+
+### CAD Render
+
+![CAD Render](/assets/mold_design_render_pic_02.png)
+
+### CAM Simulation
+![cam](/assets/scallop_3mm_ball_pic_04.png)
 ---
+![CAM Simulation](/assets/cam_tool_path_pic_01.png)
+
+### CNC Machining Process
+
+![CNC Machining](/assets/trak_screen_pic_04.jpg)
+![CNC Machining](/assets/piece_on_trak_pic_01.jpg)
 
 ## CNC Machining
 
@@ -84,6 +100,10 @@ The machining process involved:
 * Evaluated surface finish and geometric detail transfer
 * Explored repeatable low-volume fabrication workflows
 
+![silicone mold making](/assets/silicone_mold_casting_pic_01.jpg)
+
+![silicone mold making](/assets/silicone_in_mold_for_setting_pic_01.jpg)
+
 ---
 
 
@@ -91,25 +111,18 @@ The machining process involved:
 
 
 
-## Media & Demonstration
 
-### CAD Render
-
-![CAD Render](/assets/mold_design_render_pic_02.png)
-
-### CAM Simulation
-
-![CAM Simulation](/assets/cam_tool_path_pic_01.png)
-
-### CNC Machining Process
-
-![CNC Machining](/assets/trak_screen_pic_04.jpg)
-![CNC Machining](/assets/piece_on_trak_pic_01.jpg)
 
 ### Final Silicone Mold
 
 ![Final Piece](/assets/final_pic_of_the_silicone_mold_after_cured_02.jpg)
 
+![Final Piece](/assets/final_pic_of_the_silicone_mold_after_cured_01.jpg)
+
+### Resin Casting
+![Final Piece](/assets/resin_final_result_before_unpacking.jpg)
+
+![Final Piece](/assets/final_result.jpg)
 
 
 
