@@ -9,7 +9,7 @@ This is a project where I digitally fabricated resin-casted knight chess piece. 
 
 Detailed project documentation, fabrication workflows, and testing results are available here:
 
-[Portfolio Documentation](https://www.rayanabdulgafoor.in/projects/molding-and-casting/resin-casted-knight/index.html)
+[Project Documentation](https://www.rayanabdulgafoor.in/projects/molding-and-casting/resin-casted-knight/index.html)
 
 ---
 
