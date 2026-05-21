@@ -19,7 +19,11 @@ Detailed project documentation, fabrication workflows, and testing results are a
 
 This project focused on the design and fabrication of a resin-casted knight chess piece using a combination of digital manufacturing and mold-making techniques. The workflow involved CAD modeling, CAM preparation, CNC machining, silicone mold fabrication, and final resin casting.
 
+![cam](/assets/resin-casted-poster.png)
+
 The project was developed to explore precision fabrication workflows and manufacturing techniques commonly used in prototyping, product development, and low-volume production applications.
+
+
 
 ---
 
