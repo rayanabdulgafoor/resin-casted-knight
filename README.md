@@ -66,6 +66,8 @@ The fabrication workflow consisted of:
 
 The master model was machined from machinable wax using a TRAK DPM RX2 CNC bed mill.
 
+![machine](/assets/trak_front_full_pic.jpg)
+
 The machining process involved:
 
 * Roughing and finishing toolpaths
@@ -84,18 +86,6 @@ The machining process involved:
 
 ---
 
-## Testing & Validation
-
-The project was evaluated based on:
-
-* Surface quality
-* Mold accuracy
-* Geometric detail preservation
-* Resin curing consistency
-* Replication repeatability
-* Overall fabrication workflow reliability
-
----
 
 
 
